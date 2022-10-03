@@ -1,0 +1,159 @@
+body{
+    font-family: "Arial";
+    background-color: black;
+    color: white;
+}
+
+.wd-borders{
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(47, 51, 54);
+    border-bottom-color: lightgray;
+    border-bottom-width: 1px;
+}
+
+.wd-topic-padding{
+    padding-left: 16px;
+    padding-top: 0px;
+    margin-top: 12px;
+
+}
+
+.wd-topic-fonts{
+    color: white;
+    font-size:20px;
+    padding-top:0px;
+    height: 5px;
+}
+
+.wd-handle{
+    padding-left: 16px;
+    padding-bottom:0px;
+    color: lightgray;
+    font-size: 13px;
+
+}
+
+.wd-avatar {
+    border-radius: 50%;
+}
+
+.wd-padding-left{
+    padding-left: 16px;
+    padding-top: 12px;
+}
+
+.wd-padding-name{
+    padding-left: 12px;
+
+}
+
+.wd-author-font{
+    font-size: 15px;
+}
+.wd-handle-font{
+    font-size: 15px;
+    padding-left: 10px;
+
+}
+
+.wd-author-color{
+    color: white;
+}
+
+.wd-handle-color{
+    color: lightgray;
+}
+
+.wd-box-name-handle {
+    display: flex;
+    align-items: baseline;
+    justify-content:flex-start;
+}
+
+.wd-box-image-para-name{
+    display: flex;
+    align-items: flex-start;
+    justify-content:flex-start;
+
+}
+
+.wd-content-font{
+    max-width:506px;
+    size:15px;
+}
+
+.wd-content-padding{
+    margin-top: 0px;
+    padding-left: 16px;
+    padding-bottom: 12px;
+
+}
+
+.wd-box-content-flex{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.wd-image-round-topcorner{
+    border-radius: 15px 15px 0px 0px;
+
+}
+
+.wd-borderimg {
+    border-radius: 15px 15px 0px 0px;
+    border-style: solid;
+    border-bottom: none;
+    border-width: 2px;
+    border-color: rgb(47, 51, 54);
+    color: lightgray;
+
+}
+
+.wd-bordercontent {
+    border-radius: 0px 0px 15px 15px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(47, 51, 54);
+    border-top-color: lightgray;
+    border-top-width: 1px;
+}
+
+.wd-outside {
+    border-radius: 0px 0px 15px 15px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(47, 51, 54);
+    border-top-width: 0px;
+}
+
+.wd-para-font{
+    color: white;
+}
+.wd-para-font2{
+    color: lightgray;
+}
+
+.wd-box {
+    display: flex;
+}
+
+.wd-item {
+    flex:1;
+}
+
+.wd-box2 {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.wd-padding-icon-left{
+    padding-left: 12px;
+}
+
+.wd-padding-icon{
+    padding-left: 12px;
+    padding-top: 12px;
+}

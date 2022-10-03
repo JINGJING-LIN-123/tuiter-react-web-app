@@ -1,0 +1,124 @@
+body{
+    font-family: "Arial";
+    background-color: black;
+    color: white;
+}
+
+.wd-left-margin{
+    margin-left: 16px;
+}
+
+.wd-link-fonts {
+    font-size: 15px;
+    padding: 16px;
+}
+.wd-selected{
+    border-bottom: solid 4px rgb(29,161,242);
+}
+
+
+.wd-icon-position{
+    position: absolute;
+    right: 12px;
+    bottom: 95%
+}
+
+span {
+    font-family:arial;
+    font-size:40px;
+    color: dodgerblue;
+}
+
+input.wd-search-query {
+    background-color: darkgray;
+    color:white;
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: white;
+    opacity: 10; /* Firefox */
+}
+
+.wd-box {
+    display: flex;
+}
+
+.wd-item {
+      flex: 1;
+}
+
+.wd-topic-fonts{
+    font-size: 13px;
+    color: lightgrey;
+}
+.wd-subject_fonts{
+    font-size: 15px;
+    color: white;
+}
+
+.wd-tweets-fonts{
+    font-size: 12px;
+    color: rgb(110, 118, 125);
+}
+
+.wd-box2 {
+    display: flex;
+    align-items: baseline;
+    justify-content:flex-start;
+}
+
+.wd-date-padding{
+    font-size: 12px;
+    color: rgb(110, 118, 125);
+    padding-left: 10px;
+}
+
+img.wd-round-corners{
+    border-radius: 5px;
+    width: 100px;
+    height: 100px;
+    margin-right: 16px;
+    margin-top: 20px;
+
+
+}
+
+.wd-box3 {
+    inline-size: 900px;
+}
+
+.wd-box4-images{
+    display: flex;
+    align-items: flex-start;
+    justify-content:space-between;
+}
+
+.wd-padding-top{
+    padding-top: 10px;
+}
+
+.wd-borderwhole {
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(47, 51, 54);
+    color: lightgray;
+}
+
+
+.wd-borderwhole3 {
+    border-style: solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-width: 2px;
+    border-color: rgb(47, 51, 54);
+    color: lightgray;
+}
+
+
+
+
+
+
+
+
