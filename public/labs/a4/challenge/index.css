@@ -1,0 +1,135 @@
+
+body{
+    background-color: black;
+
+}
+
+.wd-search-icon{
+    bottom: 2px;
+    left:15px;
+    font-size: 20px;
+    color: gray;
+}
+
+.wd-search-gear{
+    font-size: 20px;
+    color:white;
+}
+
+.wd-Search-Twitter-board-color{
+    border-color: black;
+}
+
+.wd-twitter-color{
+    vertical-align: bottom;
+    font-size: 19px;
+    color: white;
+}
+
+
+.wd-icon-gear{
+    margin-right: 1px;
+    float: right;
+}
+
+.wd-follow{
+    margin-right: -30px;
+}
+
+.wd-who-to-follow-bgcolr{
+    background-color: rgb(32, 33, 36);
+}
+
+.wd-who-to-follow-colr{
+    color: white;
+}
+
+.wd-follow{
+    font-size: 16px;
+    background-color: white;
+    color: black;
+}
+
+.wd-follow-board-color{
+    border-color: gray;
+}
+
+.wd-follow-content-font{
+    font-size: 16px;
+    font: bold;
+    color: white;
+}
+
+.wd-who-to-follow-board-radias{
+    border-radius: 15px;
+}
+
+.wd-show-more-font{
+    font-size: 16px;
+    color: #0c63e4;
+}
+
+.wd-selected{
+    border-bottom: solid 4px rgb(29,161,242);
+}
+
+.wd-box{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+
+}
+.wd-nav-font{
+    font-size: 15px;
+    color: lightgray;
+}
+
+.wd-nav-active{
+    font-size: 15px;
+    color: white;
+}
+
+
+.wd-image-radias{
+    border-radius: 15px;
+}
+
+.wd-content-font{
+    font-size: 14px;
+    color: black;
+}
+
+.wd-content-all-colr{
+    color: white;
+}
+.wd-content-icon-colr{
+    color: gray;
+}
+
+.wd-content-board-colr{
+    border-color: black;
+}
+
+.wd-content-valign{
+    vertical-align: middle;
+}
+
+
+.errorFooter {
+    font-size: 80%;
+    line-height: 1.5;
+    padding: 1em 0;
+}
+
+.errorFooter a,
+.errorFooter a:visited {
+    color: grey;
+    text-decoration: none;
+    padding-right: 1em;
+}
+
+.errorFooter a:hover,
+.errorFooter a:active {
+    text-decoration: underline;
+}
+
