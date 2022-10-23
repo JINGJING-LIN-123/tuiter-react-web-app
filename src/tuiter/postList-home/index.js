@@ -1,6 +1,6 @@
 import React from "react";
 import PostArray from './post.json';
-import PostListItem from "./PostItem";
+import PostListItem from "./PostItem.js";
 
 const PostListHome = () => {
     return(
