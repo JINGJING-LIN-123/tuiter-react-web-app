@@ -3,7 +3,7 @@ const NavigationSidebar = (active) => {
    <div class="list-group">
      <a class="list-group-item" href="#">
        <i class="fab fa-twitter"></i></a>
-                 <div class = "list-group-item list-group-item-action ${active==='home'? 'active' : ''}" style="cursor: pointer" onclick="window.location='../HomeScreen/index.html'">
+                 <div class = "list-group-item list-group-item-action ${active === 'home' ? 'active' : ''}" style="cursor: pointer" onclick="window.location='../HomeScreen/index.html'">
                       <div class="list-group" >
                           <div class="row">
                               <div class="col-2">
@@ -15,7 +15,7 @@ const NavigationSidebar = (active) => {
                           </div>
                       </div>
                  </div>
-                 <div class = "list-group-item list-group-item-action ${active==='explore'? 'active' : ''}" style="cursor: pointer" onclick="window.location='../explore/index.html'">
+                 <div class = "list-group-item list-group-item-action ${active === 'explore' ? 'active' : ''}" style="cursor: pointer" onclick="window.location='../exploreScreen/index.html'">
                       <div class="list-group" >
                           <div class="row">
                               <div class="col-2">

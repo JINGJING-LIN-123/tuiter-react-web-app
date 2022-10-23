@@ -1,0 +1,30 @@
+.wd-post-border{
+    border-width: 1px;
+    border-color: lightslategray;
+    border-style:solid;
+}
+
+
+.wd-post-border-top{
+    border-width: 1px;
+    border-color: lightslategray;
+    border-style:solid;
+}
+
+
+.wd-post-font-size{
+    font-size: 14px;
+}
+
+.wd-post-font-size2{
+    font-size: 15px;
+}
+
+.wd-round_corner{
+    border-radius: 5px;
+}
+
+.wd-round_corner_top{
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
