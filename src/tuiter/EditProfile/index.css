@@ -1,0 +1,68 @@
+.wd_crossIcon{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.wd-saveButton-colr{
+    color: white;
+}
+
+.wd_EditProfile-font{
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.wd-nudge-up6 {
+    top: 140px;
+    left: 25px;
+}
+
+.wd-nudge-up3{
+    top: 150px;
+    left: 55px;
+}
+
+.wd-nudge-up4{
+    bottom: 80px;
+    left: 270px;
+}
+
+.wd-nudge-up5{
+    bottom: 80px;
+    left: 330px;
+}
+
+.wd-border{
+    border:1px solid black;
+}
+
+.wd-no-border{
+    border:none;
+    width: 100%;
+    resize: none;
+}
+
+.wd-no-border2{
+    border:none;
+    width: 15%;
+    resize: none;
+}
+
+.wd-link{
+    color: black;
+}
+
+.wd-label-font{
+    font-size: 13px;
+}
+
+.wd-label{
+    font-size: 13px;
+    color: dodgerblue;
+}
+.wd-icon-camera-size{
+    font-size: 45px;
+}
+.wd-text-font{
+    font-size: 18px;
+}

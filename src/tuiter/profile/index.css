@@ -1,0 +1,59 @@
+.wd_name-font{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.wd_name-font2{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.wd_name-font3{
+    font-size: 15px;
+}
+
+.wd_name-font4{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.wd_name-fontButton{
+    font-size: 12px;
+    color: black ;
+.wd_buttonWidth{
+    width: 75%;
+}
+
+}
+
+.wd-font-secondary{
+    color: gray;
+    font-size: 15px;
+
+}
+
+.wd-padding-top{
+    padding-bottom: 2px;
+}
+
+.wd-padding-top2{
+    padding-bottom: 0px;
+}
+.wd-padding-leftArrow{
+    margin-left: 15px;
+}
+
+.wd-padding-left{
+    margin-left: 5px;
+}
+
+
+
+.wd-avatar-size{
+    width:90px;
+}
+
+.wd-nudge-up2 {
+    bottom: 5px;
+    left: 25px;
+}
