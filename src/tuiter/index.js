@@ -18,7 +18,11 @@ import {Provider} from "react-redux";
 import ProfileComponent from "./profile";
 import EditProfileComponent from "./EditProfile";
 const store = configureStore(
-    {reducer: {who: whoReducer, tuits: tuitsReducer, profile: profileReducer}});
+    {reducer: {who: whoReducer, tuitsData: tuitsReducer, profile: profileReducer},
+            middleware: (getDefaultMiddleware) =>
+                getDefaultMiddleware({
+                    serializableCheck: false
+                })});
 
 
 
